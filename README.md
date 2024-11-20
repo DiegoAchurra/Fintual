@@ -1,4 +1,3 @@
-
 # Fintual
 
 Este es un sistema simple de gestión de portafolios en Python que permite rastrear las ganancias y el retorno anualizado de una colección de acciones durante un período especificado.
@@ -84,7 +83,3 @@ Para ejecutar el ejemplo incluido en el código:
 ```bash
 python main.py
 ```
-
-## Licencia
-
-Este proyecto es de código abierto.
